@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: Bootstrap Integration
+ * Plugin URI: http://www.jumptoweb.com
  * Description: For those templates which don't came with bootstrap libraries, this plugin integrate the style and the script (version 3.3.2) with your wordpress installation. 
  * Version: 1.0
  * Author: Manuel Costales
